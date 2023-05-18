@@ -1,0 +1,8 @@
+username,password,smsCode
+1234567,abc,1234567
+123456,abc,123456
+12345,abc,12345
+1234,abc,1234
+123,abc,123
+12,abc,12
+1,abc,1
